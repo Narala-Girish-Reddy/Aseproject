@@ -1,5 +1,3 @@
-[28-10-2026 10:49] Anil: # MediLink – Smart Blood & Medicine Emergency Network
-
 
 ## 📌 Project Overview
 
